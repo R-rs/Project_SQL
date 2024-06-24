@@ -19,11 +19,12 @@ Having 3 major data roles (Data Analyst, Data Engineer and Data Scientist), our 
 - Create the dataframes for each SQL table
 - Create the connector dataframe between "job title" and "skills"
 - Exporting dataframes as csv files
-- Creating the tables on SQL with the relevant connections, resulting in the ERD below
+- Creating the tables on SQL with the relevant connections, resulting in the ERD below 
 - Querying on SQL to obtain insights
 - Export the relevant insights tables
 - Data visualization on those tables
 
+  
 ### ERD
-![ERD](SQL/ERD.png)
+<img src="SQL/ERD.png" width="800" height="625">
 
