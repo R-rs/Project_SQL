@@ -25,5 +25,5 @@ Having 3 major data roles (Data Analyst, Data Engineer and Data Scientist), our 
 - Data visualization on those tables
 
 ### ERD
-readme file under maintenance
+![ERD](SQL/ERD.png)
 
